@@ -7,9 +7,9 @@
 <p align="left">
 <a href="https://twitter.com/sxdatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://instagram.com/sxdatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sadat-ullah-khan-890207191" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/imsadat/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficons%2Fleetcode&psig=AOvVaw1JjsFYDnhUm6njnDa5Lopk&ust=1680375081944000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMCD7pHrhv4CFQAAAAAdAAAAABAE" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/officialsadat" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png" alt="reddit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sadat-ullah-khan-890207191" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/imsadat/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=512" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/officialsadat" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png" alt="reddit" height="40" width="40" /></a>
 </p> 
 
 # 📊 GitHub Stats:
