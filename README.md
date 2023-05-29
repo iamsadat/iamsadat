@@ -16,12 +16,6 @@
 <a href="https://www.reddit.com/user/officialsadat" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png" alt="reddit" height="40" width="40" /></a>
 </p> 
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imsadat&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=imsadat&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imsadat&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
