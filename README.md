@@ -16,6 +16,9 @@
 <a href="https://www.reddit.com/user/officialsadat" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png" alt="reddit" height="40" width="40" /></a>
 </p> 
 
+## Github stats:
+[![iamsadat GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsadat&show_icons=true&theme=radical)](https://github.com/iamsadat)
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
