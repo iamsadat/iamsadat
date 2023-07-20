@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&duration=3000&pause=200&color=38C2FF&repeat=false&width=435&lines=Learning...)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&duration=3000&pause=200&color=38C2FF&width=435&lines=Software+Development;Open-Source;Cybersecurity)](https://git.io/typing-svg)
 
 <img align="right" alt="batman" width="400" src="https://media.giphy.com/media/4rzsojG8H8Ccg/giphy.gif">
