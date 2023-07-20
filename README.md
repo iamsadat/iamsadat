@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&duration=3000&pause=200&color=38C2FF&width=435&lines=Learning...;Software+Development;Open-Source;Cybersecurity)](https://git.io/typing-svg)
 
-Filipino senior software engineer, opensource developer and advocate, cybersecurity researcher, tech community leader, web3 enthusiast, and technopreneur from the Philippines.
-
 <img align="right" alt="batman" width="400" src="https://media.giphy.com/media/4rzsojG8H8Ccg/giphy.gif">
 
 # 💻 Tech Stack:
