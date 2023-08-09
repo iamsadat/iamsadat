@@ -22,8 +22,3 @@
 ## Github stats:
 [![iamsadat GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsadat&show_icons=true&theme=radical)](https://github.com/iamsadat)
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=imsadat&icon=0&color=0)](https://visitcount.itsvg.in)
