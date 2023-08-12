@@ -16,13 +16,13 @@ A learner and a introvert
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsadat&show_icons=true&include_all_commits=true&theme=radical" alt="Sadat's github stats" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsadat&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsadat&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamsadat&theme=2077&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamsadat&theme=radical&utcOffset=8)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamsadat&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamsadat&theme=radical)
 
 <table>
 <caption>Sadat</caption>
