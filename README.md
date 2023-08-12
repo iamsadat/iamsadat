@@ -7,7 +7,6 @@
 - [Stats](#stats)
 - [Tasks](#tasks)
 - [Ways to contact me](#ways-to-contact-me)
-- [Recent Activity](#recent-activity)
 
 ## About Me
 
@@ -71,12 +70,3 @@ A learner and a introvert
 <li><a href="https://www.linkedin.com/in/sadat-ullah-khan-890207191/" rel="me">Linkedin</a>
 <li><a href="https://twitter.com/sxdatt" rel="me">Twitter</a></li>
 </ul>
-
-## 🗣 Recent Activity
-
-<!--RECENT_ACTIVITY:last_update-->
-
-<!--RECENT_ACTIVITY:last_update_end-->
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:end-->
