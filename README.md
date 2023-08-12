@@ -1,30 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&duration=3000&pause=200&color=38C2FF&repeat=false&width=435&lines=Learning...)](https://git.io/typing-svg)
-<br/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&duration=3000&pause=200&color=38C2FF&width=435&lines=Open-Source;Software+Development;Cybersecurity;Machine+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&duration=3000&pause=200&color=38C2FF&repeat=false&width=435&lines=Hey+There!)](https://git.io/typing-svg)
 
 <img align="right" alt="batman" width="400" src="https://media.giphy.com/media/4rzsojG8H8Ccg/giphy.gif">
 
 * [About Me](#about-me)
-* [My Octocat](#my-octocat)
-* [My Blog](#my-blog)
 * [Tasks](#tasks)
 * [Ways to contact me](#ways-to-contact-me)
-* [Donate](#donate)
 
 ## About Me
 
-Hello World, I am Abhishek Chaudhary
+Hello World, I am P Sadatullah Khan
 
-A pseudo-introvert, a web developer, and a Maker
+A learner and a introvert
 
-[Resume](https://theabbie.github.io/resume.pdf)
-
-[Leetcode](https://leetcode.com/theabbie)
+[Leetcode](https://leetcode.com/imsadat/)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsadat&show_icons=true&include_all_commits=true&theme=radical" alt="Sadat's github stats" />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsadat&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamsadat&theme=2077)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamsadat&theme=2077&utcOffset=8)
 
@@ -50,9 +44,9 @@ A pseudo-introvert, a web developer, and a Maker
 ## tasks
 
 - [x] Born
-- [ ] Got a job
+- [ ] Get a job
 - [ ] Visit Greece
-- [ ] Married
+- [ ] Marry
 - [ ] Have children
 - [ ] Die
 
@@ -64,29 +58,14 @@ A pseudo-introvert, a web developer, and a Maker
 <li><a href="https://t.me/iamsadat" rel="me">Telegram</a>
 <li><a href="https://wa.me/919989680670?text=Hi" rel="me">Whatsapp</a>
 <li><a href="https://www.linkedin.com/in/sadat-ullah-khan-890207191/" rel="me">Linkedin</a>
-<li><a href="https://twitter.com/sxdatt" rel="me">Twitter</a>
-<li>Call</li>
-</li>
+<li><a href="https://twitter.com/sxdatt" rel="me">Twitter</a></li>
 </ul>
 
 
-## About Me
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <p align="left">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" width="40" height="40" />
 <img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" alt="Python" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </p>
-
-## 🌐 Socials:
-<p align="left">
-<a href="https://twitter.com/sxdatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://instagram.com/sxdatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sadat-ullah-khan-890207191" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/imsadat/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=512" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/officialsadat" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png" alt="reddit" height="40" width="40" /></a>
-</p> 
-
-## Github stats:
-[![iamsadat GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsadat&show_icons=true&theme=radical)](https://github.com/iamsadat)
 
