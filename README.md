@@ -2,9 +2,9 @@
 
 <img align="right" alt="batman" width="400" src="https://media.giphy.com/media/4rzsojG8H8Ccg/giphy.gif">
 
-* [About Me](#about-me)
-* [Tasks](#tasks)
-* [Ways to contact me](#ways-to-contact-me)
+- [About Me](#about-me)
+- [Tasks](#tasks)
+- [Ways to contact me](#ways-to-contact-me)
 
 ## About Me
 
@@ -61,11 +61,14 @@ A learner and a introvert
 <li><a href="https://twitter.com/sxdatt" rel="me">Twitter</a></li>
 </ul>
 
-
 ## 💻 Tech Stack:
+
 <p align="left">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" width="40" height="40" />
 <img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" alt="Python" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </p>
 
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
