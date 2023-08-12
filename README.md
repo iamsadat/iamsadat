@@ -18,7 +18,7 @@ A learner and a introvert
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsadat&theme=2077)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamsadat&theme=2077&utcOffset=8)
 
