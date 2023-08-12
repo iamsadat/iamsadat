@@ -3,26 +3,15 @@
 <img align="right" alt="batman" width="400" src="https://media.giphy.com/media/4rzsojG8H8Ccg/giphy.gif">
 
 - [About Me](#about-me)
+- [Tech Stack](#tech-stack)
+- [Stats](#stats)
 - [Tasks](#tasks)
 - [Ways to contact me](#ways-to-contact-me)
+- [Recent Activity](#recent-activity)
 
 ## About Me
 
-Hello World, I am P Sadatullah Khan
-
 A learner and a introvert
-
-[Leetcode](https://leetcode.com/imsadat/)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsadat&show_icons=true&include_all_commits=true&theme=radical" alt="Sadat's github stats" />
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsadat&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamsadat&theme=radical&utcOffset=8)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamsadat&theme=radical)
 
 <table>
 <caption>Sadat</caption>
@@ -37,11 +26,33 @@ A learner and a introvert
 <tr><th scope='row'>Education</th><td>B.E.</td></tr>
 <tr><th scope='row'>Nationality</th><td>Indian</td></tr>
 <tr><th scope='row'>Occupation</th><td>Web Developer</td></tr>
-<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, Java, Python, C</td></tr>
+<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, React, Java, Python, C</td></tr>
 </tbody>
 </table>
 
-## tasks
+[Leetcode](https://leetcode.com/imsadat/)
+
+## 💻 Tech Stack:
+
+<p align="left">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" width="40" height="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" alt="Python" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</p>
+
+## Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsadat&show_icons=true&include_all_commits=true&theme=radical" alt="Sadat's github stats" />
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsadat&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamsadat&theme=radical&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamsadat&theme=radical)
+
+## Tasks
 
 - [x] Born
 - [ ] Get a job
@@ -61,14 +72,23 @@ A learner and a introvert
 <li><a href="https://twitter.com/sxdatt" rel="me">Twitter</a></li>
 </ul>
 
-## 💻 Tech Stack:
-
-<p align="left">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" width="40" height="40" />
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" alt="Python" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</p>
-
-<!--RECENT_ACTIVITY:start-->
+## 🗣 Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
+
+Last Updated: Tuesday, June 1st, 2021, 1:08:10 PM (GMT)
+
+<!--RECENT_ACTIVITY:last_update_end-->
+<!--RECENT_ACTIVITY:start-->
+
+1. ⭐ Starred [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
+2. 📔 Created new repository [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
+3. ✌️ Released [Recent Activity v2.2.0 Released!](https://github.com/Readme-Workflows/recent-activity/releases/tag/v2.2.0) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. 🎉 Merged PR [#68](https://github.com/Readme-Workflows/recent-activity/pull/68) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. 👍 Approved [#68](https://github.com/Readme-Workflows/recent-activity/pull/68#pullrequestreview-672173006) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. 🗣 Commented on [#6848](https://github.com/termux/termux-packages/issues/6848) in [termux/termux-packages](https://github.com/termux/termux-packages)
+7. 🗣 Commented on [#62](https://github.com/Readme-Workflows/recent-activity/issues/62) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. 🗣 Commented on [#6848](https://github.com/termux/termux-packages/issues/6848) in [termux/termux-packages](https://github.com/termux/termux-packages)
+9. 🗣 Commented on [#6848](https://github.com/termux/termux-packages/issues/6848) in [termux/termux-packages](https://github.com/termux/termux-packages)
+10. 💪 Opened PR [#62](https://github.com/Readme-Workflows/recent-activity/pull/62) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+<!--RECENT_ACTIVITY:end-->
