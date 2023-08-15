@@ -13,7 +13,6 @@
 A learner and a introvert
 
 <table>
-<caption>Sadat</caption>
 <thead>
 <tr>
 <th colspan="2">Quick Info</th>
