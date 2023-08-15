@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&duration=3000&pause=200&color=38C2FF&repeat=false&width=435&lines=Hey+There!)](https://git.io/typing-svg)
 
-<img align="right" alt="batman" width="300" src="https://media.giphy.com/media/4rzsojG8H8Ccg/giphy.gif">
+<img align="right" alt="batman" width="350" src="https://media.giphy.com/media/4rzsojG8H8Ccg/giphy.gif">
 
 - [About Me](#about-me)
 - [Tech Stack](#tech-stack)
