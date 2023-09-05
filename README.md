@@ -23,7 +23,7 @@ A learner and a introvert
 <tr><th scope='row'>Born</th><td><time datetime="2002-01-11 08:00">09 May, 2003</time></td></tr>
 <tr><th scope='row'>Education</th><td>B.E.</td></tr>
 <tr><th scope='row'>Nationality</th><td>Indian</td></tr>
-<tr><th scope='row'>Occupation</th><td>Web Developer</td></tr>
+<tr><th scope='row'>Occupation</th><td>Software Developer</td></tr>
 <tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, React, Java, Python, C</td></tr>
 </tbody>
 </table>
