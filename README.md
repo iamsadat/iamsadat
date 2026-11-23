@@ -6,6 +6,7 @@
 - [Tech Stack](#tech-stack)
 - [Stats](#stats)
 - [Tasks](#tasks)
+- [Contact](#contact)
 
 ## About Me
 
@@ -44,8 +45,12 @@ A learner and an introvert.
 ## Tasks
 
 - [x] Born
-- [x] Get a job
+- [ ] Get a job
 - [ ] Visit Greece
 - [ ] Marry
 - [ ] Have children
 - [ ] Die
+
+## Contact
+
+Open an issue on one of my repos, or follow me here on GitHub.
